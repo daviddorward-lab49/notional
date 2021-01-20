@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/notional/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/notional/static/js/main.dac4e389.chunk.js",
+    "main.js.map": "/notional/static/js/main.dac4e389.chunk.js.map",
+    "runtime-main.js": "/notional/static/js/runtime-main.7af61f60.js",
+    "runtime-main.js.map": "/notional/static/js/runtime-main.7af61f60.js.map",
+    "static/js/2.77ed3747.chunk.js": "/notional/static/js/2.77ed3747.chunk.js",
+    "static/js/2.77ed3747.chunk.js.map": "/notional/static/js/2.77ed3747.chunk.js.map",
+    "static/js/3.2cc44adf.chunk.js": "/notional/static/js/3.2cc44adf.chunk.js",
+    "static/js/3.2cc44adf.chunk.js.map": "/notional/static/js/3.2cc44adf.chunk.js.map",
+    "index.html": "/notional/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/notional/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.77ed3747.chunk.js.LICENSE.txt": "/notional/static/js/2.77ed3747.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7af61f60.js",
+    "static/js/2.77ed3747.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.dac4e389.chunk.js"
+  ]
+}
